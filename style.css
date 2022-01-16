@@ -1,0 +1,21 @@
+.logos {
+    height: 80px;
+}
+
+#maindiv {
+    background-color: antiquewhite;
+    border-radius: 20px;
+}
+
+img {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    height: 300px;
+    border-radius: 10px;
+}
+
+.recognition {
+    background: gray;
+    border-radius: 20px;
+    height: 600px;
+}
